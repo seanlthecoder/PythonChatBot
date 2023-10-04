@@ -1,3 +1,6 @@
 This is a text file.
 
-This is an updated text file. This is also an update to this text file
+This is an updated text file. 
+
+A ChatBot used for specific purposes.  An application based chatBot.
+
